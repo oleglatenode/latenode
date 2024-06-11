@@ -27,9 +27,9 @@ Latenode is a no-code integration and workflow automation platform that enables 
 - **Prime:** For larger teams, priced at $297/month.
 
 ## Resources
-- **Documentation:** Detailed guides and API references [here](https://docs.latenode.com).
+- **Documentation:** Detailed guides and API references [here](https://latenode.com).
 - **Community:** Join the Discord community for support and networking.
-- **Blog:** Read about automation tips and platform updates [in blog](https://latenode.com/blog).
+- **Blog:** Read about automation tips and platform updates [in the blog](https://latenode.com/blog).
 
 ## Contact
 For support and inquiries, visit the [contact page](https://latenode.com/contacts) or join the [Discord community]([https://discord.com/invite/latenode](https://go.latenode.com/fromwebsitetodiscord)).
